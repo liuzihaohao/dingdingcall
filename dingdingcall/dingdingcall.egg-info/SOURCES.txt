@@ -1,0 +1,7 @@
+dingdingcall.py
+setup.py
+dingdingcall.egg-info/PKG-INFO
+dingdingcall.egg-info/SOURCES.txt
+dingdingcall.egg-info/dependency_links.txt
+dingdingcall.egg-info/requires.txt
+dingdingcall.egg-info/top_level.txt
